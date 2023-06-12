@@ -1,0 +1,23 @@
+{
+    "235106": {
+        "name": "Elon",
+        "roll_no": "90",
+        "grade": "10",
+        "total_attendance": 10,
+        "last_attendance_time": "2022-12-11 00:54:34"
+    },
+    "699699": {
+        "name": "Rishi",
+        "roll_no": "28",
+        "grade": "9",
+        "total_attendance": 0,
+        "last_attendance_time": "2022-12-11 00:54:34"
+    },
+    "963852": {
+        "name": "Tony",
+        "roll_no": "10",
+        "grade": "12",
+        "total_attendance": 10,
+        "last_attendance_time": "2022-12-11 00:54:34"
+    }
+}
